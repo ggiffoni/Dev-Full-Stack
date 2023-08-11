@@ -1,3 +1,5 @@
+#Multiplica duas Matrizes 3 x 3.
+
 def mult_matizes(A, B):
     nLinhasA = len(A)
     nColunasA = len(A[0])
