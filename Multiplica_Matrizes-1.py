@@ -1,3 +1,4 @@
+#Exemplo de Multiplicação de matrizes.
 
 from numpy import array
 
