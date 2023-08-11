@@ -1,0 +1,11 @@
+#Fornece o enézimo número de Fibonacci.
+
+n = eval(input("Forneça enézimo número de Fibonacci \n"))
+
+def fibo(n):
+    if n == 1 or n == 2:
+        return 1
+    else:
+        return fibo(n - 1) + fibo(n - 2)
+
+print(fibo(n))
