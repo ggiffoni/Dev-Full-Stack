@@ -1,3 +1,5 @@
+#Multiplica 2 Matrizes 3 x 3 Digitadas pelo usuário.
+
 from numpy import array
 
 matriz_A = eval(input("Entre com a sua matriz A:"))
