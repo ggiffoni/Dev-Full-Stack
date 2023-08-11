@@ -1,3 +1,5 @@
+#Exemplo de Iteração de Matrizes.
+
 from numpy import array
 
 
