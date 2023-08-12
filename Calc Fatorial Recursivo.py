@@ -1,4 +1,4 @@
-#Fatorial recursivo.
+#Cálculo do Fatorial - Método recursivo.
 
 def fat_recursivo(n):
     if ((n == 0) or (n == 1)):
