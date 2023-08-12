@@ -1,4 +1,4 @@
-
+#Exemplo de if else.
 N = eval(input("Digite a nota do aluno.\n"))
 
 if N >= 7:
