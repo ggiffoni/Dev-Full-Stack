@@ -1,3 +1,5 @@
+#Converte um número decimal para binário.
+
 N = eval(input("Forneça número decimal N \n"))
 
 print(f"Numero na base decimal: {N}")
