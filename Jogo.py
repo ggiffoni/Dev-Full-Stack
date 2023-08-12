@@ -1,3 +1,5 @@
+#Jogo do Par ou Ímpar.
+
 from random import randint
 
 playernum = 11
