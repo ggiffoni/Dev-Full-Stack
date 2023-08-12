@@ -1,7 +1,7 @@
 # Potenciação - funções dentro de funções
 
-def calcula_potencia(base):
-    def potencia(expoente):
+def calcula_potencia(expoente):
+    def potencia(base):
         return base ** expoente
 
     return potencia
@@ -10,11 +10,11 @@ def calcula_potencia(base):
 def main():
     base_expoente = input()
     # separa base e expoente, convertendo-os para inteiros
-    expoente, base = (int(i) for i in base_expoente.split())
+    base, expoente = (int(i) for i in base_expoente.split())
 
     # utilizando a função calcula_potencia
-    potencia_de = calcula_potencia(base)
-    res_potencia = potencia_de(expoente)
+    potencia_de = calcula_potencia(expoente)
+    res_potencia = potencia_de(base)
     print(f"{base} elevado a {expoente} = {res_potencia}")
 
 if __name__ == "__main__":
