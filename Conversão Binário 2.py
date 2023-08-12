@@ -1,3 +1,5 @@
+#Converte um número decimal para binário (versão 2.0).
+
 D = eval(input("Forneça número decimal N \n"))
 
 Q = 1
