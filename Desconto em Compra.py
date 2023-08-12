@@ -1,3 +1,5 @@
+#Exemplo de if elif e else.
+
 N = eval(input("Quantas unidades o cliente está comprando?\n"))
 
 Pu = 10
