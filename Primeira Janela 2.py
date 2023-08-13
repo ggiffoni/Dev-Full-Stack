@@ -1,3 +1,5 @@
+#Exemplo de Interface Gráfica - Módulo tkinter.
+
 from tkinter import *
 
 def funcClicar():
