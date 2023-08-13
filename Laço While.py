@@ -1,3 +1,5 @@
+#Exemplo básico de laço while.
+
 s = 0
 a = 1
 while s < 5:
