@@ -1,19 +1,19 @@
 #Exemplo de Interface Gráfica - Módulo tkinter.
 
-from tkinter import *
+import tkinter
 
 def funcClicar():
     print("Botão pressionado")
 
-janelaPrincipal = Tk()
-texto = Label(master = janelaPrincipal, text = "Minha janela exibida")
+janelaPrincipal = tkinter.Tk()
+texto = tkinter.Label(master = janelaPrincipal, text = "Minha janela exibida")
 texto.pack()
 
-pic = PhotoImage(file="peixe.gif")
-logo = Label(master = janelaPrincipal, image = pic)
+pic = tkinter.PhotoImage(file="peixe.gif")
+logo = tkinter.Label(master = janelaPrincipal, image = pic)
 logo.pack()
 
-botao = Button(master = janelaPrincipal, text = 'Clique', command = funcClicar)
+botao = tkinter.Button(master = janelaPrincipal, text = 'Clique', command = funcClicar)
 botao.pack()
 
 janelaPrincipal.mainloop()
