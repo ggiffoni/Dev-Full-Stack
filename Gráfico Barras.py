@@ -1,4 +1,4 @@
-# Representar dados de vendas em um gráfico de barras.
+#Representar dados de vendas em um gráfico de barras.
 
 import matplotlib.pyplot as plt
 import numpy as np
