@@ -1,6 +1,6 @@
 #Multiplicação de Matrizes 3x3 com módulo.
 
-from numpy import array
+
 import Linhas_Colunas_3x3
 
 matriz_A = eval(input("Entre com a sua matriz A:"))
