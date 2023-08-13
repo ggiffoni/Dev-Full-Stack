@@ -1,4 +1,4 @@
-# Determina se um número é primo.
+#Informa se um número é primo.
 
 n = eval(input("Entre com um número inteiro: "))
 
