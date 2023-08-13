@@ -1,3 +1,5 @@
+#Exercício básico de Função.
+
 def foo(a):
     return a + a + a
 
