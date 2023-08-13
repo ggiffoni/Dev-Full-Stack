@@ -1,3 +1,4 @@
+#Exemplo com try, while e finally.
 
 try:
     a = eval(input("Entre com o numerador: "))
