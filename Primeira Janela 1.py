@@ -1,4 +1,4 @@
-#Exemplo de Interface Gráfica - Módulo tkinter.
+#Exemplo de Interface Gráfica - Módulo tkinter importado com *.
 
 from tkinter import *
 
