@@ -1,4 +1,4 @@
-#Soma os números pares de uma lista utilizando uma função.
+# Soma os números pares de uma lista utilizando uma função.
 
 list = eval(input("Digite uma lista de números inteiros: "))
 
