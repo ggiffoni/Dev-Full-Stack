@@ -1,4 +1,4 @@
-# Novo código para encontrar o enézimo número de Fibonacci.
+#Novo código para encontrar o enézimo número de Fibonacci.
 
 def fibo2(n):
     if n < 2:
