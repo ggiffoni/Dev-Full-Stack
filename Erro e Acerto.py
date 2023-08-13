@@ -1,3 +1,4 @@
+#Exemplo com while, try, break, except e ValueError.
 
 try:
     x = int(input("Digite um númerro inteiro par: "))
