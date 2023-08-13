@@ -1,3 +1,5 @@
+#Código com erro.
+
 x = eval(input("Forneça número decimal inteiro x \n"))
 
 def regressiva(x):
