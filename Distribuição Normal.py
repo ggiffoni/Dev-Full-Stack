@@ -1,4 +1,4 @@
-# Geração de 1000 pontos com média 20 e desvio padrão 2.
+#Geração de 1000 pontos com média 20 e desvio padrão 2.
 
 import matplotlib.pyplot as plt
 import numpy as np
