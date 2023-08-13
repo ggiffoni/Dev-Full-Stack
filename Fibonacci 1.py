@@ -1,4 +1,4 @@
-#Fornece o enézimo número de Fibonacci.
+# Fornece o enézimo número de Fibonacci.
 
 n = eval(input("Forneça enézimo número de Fibonacci \n"))
 
