@@ -1,3 +1,5 @@
+#Apresenta uma janela contendo uma imagem e um botão.
+
 from tkinter import *
 
 def funcClicar():
