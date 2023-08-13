@@ -5,9 +5,11 @@ import tkinter
 from tkinter import Button
 from tkinter import Entry
 from tkinter import Label
+from tkinter import messagebox
 
 def acao():
     print("Botão pressionado.")
+    msg = messagebox.showinfo("Alerta!", texto.get())
 
 principal = tkinter.Tk()
 
