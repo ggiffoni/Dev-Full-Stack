@@ -1,3 +1,4 @@
+#Exemplo com while, try, break, except e ValueError.
 
 while True:
     try:
