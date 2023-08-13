@@ -1,3 +1,5 @@
+#Exemplo de Interface Gráfica - Módulo tkinter.
+
 from tkinter import *
 
 def funcClicar():
@@ -7,7 +9,7 @@ janelaPrincipal = Tk()
 texto = Label(master = janelaPrincipal, text = "Minha janela exibida")
 texto.pack()
 
-pic = PhotoImage(file="DSC05456.jpg")
+pic = PhotoImage(file="peixe.gif")
 logo = Label(master = janelaPrincipal, image = pic)
 logo.pack()
 
