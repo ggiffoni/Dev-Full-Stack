@@ -6,7 +6,7 @@ def subconjuntos(numeros):
         resultado += [i + [numero] for i in resultado]
     return resultado
 
-lista = [1, 2, 3]
+lista = eval(input("Entre com uma lista de números: "))
 
 conjunto = subconjuntos(lista)
 
